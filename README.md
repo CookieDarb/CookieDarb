@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN and Machine Learning
+🌱 I’m currently learning MERN and Machine Learning.
 
 
 # 💻 Tech Stack:
