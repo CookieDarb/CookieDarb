@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # 💫 About Me:
 🌱 I’m currently learning MERN and Machine Learning.
 
